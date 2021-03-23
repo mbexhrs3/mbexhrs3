@@ -8,6 +8,5 @@ Currently (2018 – present), I am teaching Atmospheric and Oceanic Sciences at 
 I have received PhD degree in Atmospheric Science from the University of Manchester, UK, and MSc degree in Environmental Science from the UNESCO-IHE, the Netherlands. The degree programs were fully-funded by the Dorothy-Hodgkin Post-graduate Scholarship Program and the Netherlands Fellowship Program, respectively. I have obtained bachelor’s degree in Civil Engineering from Institute of Engineering, Kathmandu, Nepal. More recently, I have successfully completed a 11-week online Machine Learning course offered by the Stanford University.
 
 ## Certifications
-* [machine learning](https://www.coursera.org/account/accomplishments/certificate/8WZT83DDJ2BK)
 * [Machine Learning - Stanford University (Online via Coursera)](https://www.coursera.org/account/accomplishments/certificate/8WZT83DDJ2BK)
 
