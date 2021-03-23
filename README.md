@@ -10,3 +10,9 @@ I have received PhD degree in Atmospheric Science from the University of Manches
 ## Certifications
 * [Machine Learning - Stanford University (Online via Coursera)](https://www.coursera.org/account/accomplishments/certificate/8WZT83DDJ2BK)
 
+## Other Links
+* [Google Scholar](https://scholar.google.com/citations?user=AA0hfLQAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/rudra-shrestha-00b195bb/)
+* [ResearchGate](https://www.researchgate.net/profile/Rudra-Shrestha-2)
+* [Twitter](https://twitter.com/Rudra_climate)
+
