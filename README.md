@@ -9,5 +9,5 @@ I have received PhD degree in Atmospheric Science from the University of Manches
 
 ## Certifications
 
-![Machine Learning] (https://www.coursera.org/account/accomplishments/certificate/8WZT83DDJ2BK)
+[Machine Learning (Stanford Online - Coursera)] (https://www.coursera.org/account/accomplishments/certificate/8WZT83DDJ2BK)
 
